@@ -3,5 +3,18 @@
     "description": "Parses Php Error Logs and returns them in a nice readable format.",
     "require": {
         "php": ">=5.5.0"
+    },
+    authors: [
+        {
+            "name": "Gourab Nag",
+            "email": "ping@gourab.me",
+            "homepage": "https://gourab.me",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Parser": "src"
+        }
     }
 }
