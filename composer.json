@@ -1,5 +1,5 @@
 {
-    "name": "gourabNagDev/php-error-parser",
+    "name": "gourab-nag-dev/php-error-parser",
     "description": "Parses Php Error Logs and returns them in a nice readable format.",
     "require": {
         "php": ">=5.5.0"
