@@ -4,7 +4,7 @@
     "require": {
         "php": ">=5.5.0"
     },
-    authors: [
+    "authors": [
         {
             "name": "Gourab Nag",
             "email": "ping@gourab.me",
